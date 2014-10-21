@@ -1,0 +1,13 @@
+Range_Valid_1
+false
+Reduction Rules
+Reduction_49[Multiplication_4],8
+Reduction_58[Sum_2],1
+Reduction_47[Multiplication_2],5
+Reduction_60[Sum_4],22
+Reduction_84[ForAll_2],1
+Reduction_43[Or_5],3
+Reduction_62[Sum_6],11
+Reduction_46[Multiplication_1],8
+Inference Rules
+Inference_4[Inequality_4],1

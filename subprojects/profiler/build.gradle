@@ -1,0 +1,11 @@
+apply plugin: 'application'
+
+dependencies {
+    compile libraries.commons_cli
+    compile libraries.slf4j_log4j13
+
+    compile project(':wycs')
+}
+
+mainClassName = 'com.hjwylde.profiler.Main'
+

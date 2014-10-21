@@ -1,0 +1,10 @@
+ListLength_Invalid_3
+false
+Reduction Rules
+Reduction_49[Multiplication_4],1
+Reduction_47[Multiplication_2],6
+Reduction_33[And_1],1
+Reduction_60[Sum_4],4
+Reduction_62[Sum_6],2
+Reduction_46[Multiplication_1],3
+Inference Rules

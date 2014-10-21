@@ -1,0 +1,6 @@
+ConstrainedList_Valid_26
+true
+Reduction Rules
+Reduction_47[Multiplication_2],3
+Reduction_75[Set_LengthOf_1],1
+Inference Rules

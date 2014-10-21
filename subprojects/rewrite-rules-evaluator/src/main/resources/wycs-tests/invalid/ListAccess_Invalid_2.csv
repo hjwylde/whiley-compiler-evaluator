@@ -1,0 +1,11 @@
+ListAccess_Invalid_2
+false
+Reduction Rules
+Reduction_49[Multiplication_4],2
+Reduction_47[Multiplication_2],5
+Reduction_58[Sum_2],2
+Reduction_77[],1
+Reduction_60[Sum_4],21
+Reduction_62[Sum_6],2
+Reduction_46[Multiplication_1],3
+Inference Rules

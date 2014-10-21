@@ -1,0 +1,7 @@
+RecordAssign_Valid_3
+true
+Reduction Rules
+Reduction_47[Multiplication_2],1
+Reduction_25[Load_1],2
+Reduction_46[Multiplication_1],3
+Inference Rules

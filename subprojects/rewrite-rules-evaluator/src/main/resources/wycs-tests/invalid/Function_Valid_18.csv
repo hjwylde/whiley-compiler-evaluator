@@ -1,0 +1,18 @@
+Function_Valid_18
+true
+Reduction Rules
+Reduction_58[Sum_2],4
+Reduction_47[Multiplication_2],13
+Reduction_33[And_1],2
+Reduction_60[Sum_4],24
+Reduction_57[Sum_1],8
+Reduction_43[Or_5],6
+Reduction_61[Sum_5],2
+Reduction_62[Sum_6],4
+Reduction_48[Multiplication_3],7
+Reduction_41[Or_3],3
+Reduction_36[And_4],22
+Inference Rules
+Inference_3[Inequality_3],1
+Inference_4[Inequality_4],9
+Inference_1[Equation_2],4

@@ -1,0 +1,36 @@
+While_Valid_12
+false
+Reduction Rules
+Reduction_47[Multiplication_2],59
+Reduction_57[Sum_1],183
+Reduction_89[Exists_3],1
+Reduction_39[Or_1],1
+Reduction_48[Multiplication_3],90
+Reduction_40[Or_2],24
+Reduction_25[Load_1],7
+Reduction_36[And_4],271
+Reduction_46[Multiplication_1],252
+Reduction_58[Sum_2],106
+Reduction_67[Equation_6],5
+Reduction_53[Division_4],34
+Reduction_69[Inequality_2],2
+Reduction_59[Sum_3],49
+Reduction_35[And_3],290
+Reduction_38[And_6],220
+Reduction_33[And_1],191
+Reduction_43[Or_5],217
+Reduction_62[Sum_6],94
+Reduction_61[Sum_5],192
+Reduction_41[Or_3],208
+Reduction_37[And_5],228
+Reduction_56[Division_7],33
+Reduction_49[Multiplication_4],66
+Reduction_60[Sum_4],338
+Reduction_81[Set_SubsetEq_4],162
+Reduction_9[OrType_2],114
+Reduction_55[Division_6],4
+Inference Rules
+Inference_3[Inequality_3],7
+Inference_4[Inequality_4],5
+Inference_1[Equation_2],21
+Inference_6[ForAll_5],6

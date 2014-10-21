@@ -1,0 +1,17 @@
+test_list_12
+true
+Reduction Rules
+Reduction_47[Multiplication_2],4
+Reduction_60[Sum_4],13
+Reduction_57[Sum_1],2
+Reduction_43[Or_5],6
+Reduction_61[Sum_5],1
+Reduction_39[Or_1],3
+Reduction_62[Sum_6],7
+Reduction_41[Or_3],9
+Reduction_37[And_5],8
+Reduction_36[And_4],12
+Inference Rules
+Inference_3[Inequality_3],1
+Inference_4[Inequality_4],2
+Inference_6[ForAll_5],4

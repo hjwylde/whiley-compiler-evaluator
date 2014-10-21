@@ -1,0 +1,13 @@
+SetIntersection_Valid_5
+false
+Reduction Rules
+Reduction_58[Sum_2],1
+Reduction_47[Multiplication_2],12
+Reduction_57[Sum_1],10
+Reduction_48[Multiplication_3],3
+Reduction_25[Load_1],2
+Reduction_36[And_4],4
+Reduction_38[And_6],5
+Reduction_46[Multiplication_1],8
+Inference Rules
+Inference_3[Inequality_3],2

@@ -1,0 +1,18 @@
+ConstrainedList_Valid_7
+true
+Reduction Rules
+Reduction_47[Multiplication_2],28
+Reduction_64[Equation_Gcd_1],2
+Reduction_57[Sum_1],18
+Reduction_39[Or_1],3
+Reduction_62[Sum_6],12
+Reduction_48[Multiplication_3],1
+Reduction_27[EqualsTuple_1],6
+Reduction_25[Load_1],16
+Reduction_36[And_4],30
+Reduction_46[Multiplication_1],11
+Reduction_49[Multiplication_4],6
+Reduction_60[Sum_4],64
+Reduction_35[And_3],16
+Inference Rules
+Inference_1[Equation_2],8

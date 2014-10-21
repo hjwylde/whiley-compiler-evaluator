@@ -1,0 +1,8 @@
+test_105
+false
+Reduction Rules
+Reduction_30[Not_2],3
+Reduction_38[And_6],1
+Reduction_36[And_4],5
+Reduction_25[Load_1],2
+Inference Rules

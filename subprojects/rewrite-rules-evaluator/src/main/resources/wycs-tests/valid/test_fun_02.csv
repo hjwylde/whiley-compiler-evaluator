@@ -1,0 +1,9 @@
+test_fun_02
+true
+Reduction Rules
+Reduction_47[Multiplication_2],2
+Reduction_60[Sum_4],7
+Reduction_61[Sum_5],1
+Reduction_46[Multiplication_1],3
+Inference Rules
+Inference_3[Inequality_3],1

@@ -1,0 +1,9 @@
+SetUnion_Invalid_4
+false
+Reduction Rules
+Reduction_47[Multiplication_2],3
+Reduction_57[Sum_1],2
+Reduction_78[Set_SubsetEq_1],1
+Reduction_25[Load_1],4
+Inference Rules
+Inference_1[Equation_2],1

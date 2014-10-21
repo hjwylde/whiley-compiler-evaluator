@@ -1,0 +1,7 @@
+ConstrainedInt_Invalid_5
+false
+Reduction Rules
+Reduction_47[Multiplication_2],1
+Reduction_60[Sum_4],4
+Reduction_62[Sum_6],2
+Inference Rules

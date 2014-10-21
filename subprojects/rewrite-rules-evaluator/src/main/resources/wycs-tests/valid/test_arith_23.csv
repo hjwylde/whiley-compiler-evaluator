@@ -1,0 +1,17 @@
+test_arith_23
+true
+Reduction Rules
+Reduction_49[Multiplication_4],6
+Reduction_47[Multiplication_2],11
+Reduction_60[Sum_4],13
+Reduction_57[Sum_1],2
+Reduction_39[Or_1],1
+Reduction_61[Sum_5],5
+Reduction_62[Sum_6],7
+Reduction_48[Multiplication_3],16
+Reduction_36[And_4],3
+Reduction_56[Division_7],8
+Reduction_46[Multiplication_1],9
+Inference Rules
+Inference_3[Inequality_3],1
+Inference_4[Inequality_4],2

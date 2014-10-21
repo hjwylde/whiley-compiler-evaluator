@@ -1,0 +1,9 @@
+test_arith_10
+true
+Reduction Rules
+Reduction_61[Sum_5],1
+Reduction_49[Multiplication_4],2
+Reduction_46[Multiplication_1],3
+Reduction_60[Sum_4],4
+Inference Rules
+Inference_1[Equation_2],1

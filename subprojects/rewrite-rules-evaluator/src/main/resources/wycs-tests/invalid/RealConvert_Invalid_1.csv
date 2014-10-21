@@ -1,0 +1,8 @@
+RealConvert_Invalid_1
+false
+Reduction Rules
+Reduction_58[Sum_2],1
+Reduction_47[Multiplication_2],2
+Reduction_33[And_1],3
+Reduction_60[Sum_4],4
+Inference Rules

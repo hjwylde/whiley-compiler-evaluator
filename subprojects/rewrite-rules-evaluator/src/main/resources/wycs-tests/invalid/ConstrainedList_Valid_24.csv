@@ -1,0 +1,36 @@
+ConstrainedList_Valid_24
+false
+Reduction Rules
+Reduction_47[Multiplication_2],36
+Reduction_57[Sum_1],166
+Reduction_39[Or_1],1
+Reduction_89[Exists_3],3
+Reduction_48[Multiplication_3],175
+Reduction_25[Load_1],7
+Reduction_36[And_4],1353
+Reduction_46[Multiplication_1],279
+Reduction_58[Sum_2],74
+Reduction_67[Equation_6],5
+Reduction_53[Division_4],20
+Reduction_69[Inequality_2],2
+Reduction_59[Sum_3],88
+Reduction_38[And_6],456
+Reduction_35[And_3],358
+Reduction_33[And_1],158
+Reduction_43[Or_5],331
+Reduction_62[Sum_6],192
+Reduction_44[Equals_1],8
+Reduction_41[Or_3],93
+Reduction_37[And_5],66
+Reduction_90[Exists_4],36
+Reduction_49[Multiplication_4],129
+Reduction_60[Sum_4],406
+Reduction_81[Set_SubsetEq_4],343
+Reduction_9[OrType_2],190
+Reduction_34[And_2],48
+Inference Rules
+Inference_7[ForAll_6],2
+Inference_3[Inequality_3],22
+Inference_4[Inequality_4],6
+Inference_1[Equation_2],10
+Inference_6[ForAll_5],18

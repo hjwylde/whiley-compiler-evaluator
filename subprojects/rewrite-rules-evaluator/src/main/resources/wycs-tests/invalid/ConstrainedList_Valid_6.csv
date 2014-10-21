@@ -1,0 +1,19 @@
+ConstrainedList_Valid_6
+false
+Reduction Rules
+Reduction_47[Multiplication_2],19
+Reduction_33[And_1],2
+Reduction_75[Set_LengthOf_1],5
+Reduction_43[Or_5],192
+Reduction_62[Sum_6],3
+Reduction_27[EqualsTuple_1],16
+Reduction_36[And_4],39
+Reduction_87[Exists_1],2
+Reduction_90[Exists_4],4
+Reduction_46[Multiplication_1],23
+Reduction_58[Sum_2],7
+Reduction_60[Sum_4],58
+Reduction_67[Equation_6],19
+Reduction_59[Sum_3],21
+Reduction_38[And_6],628
+Inference Rules

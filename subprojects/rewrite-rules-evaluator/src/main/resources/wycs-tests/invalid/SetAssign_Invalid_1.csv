@@ -1,0 +1,8 @@
+SetAssign_Invalid_1
+false
+Reduction Rules
+Reduction_47[Multiplication_2],3
+Reduction_60[Sum_4],8
+Reduction_75[Set_LengthOf_1],1
+Reduction_36[And_4],2
+Inference Rules

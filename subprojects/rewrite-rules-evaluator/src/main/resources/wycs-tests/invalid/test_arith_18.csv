@@ -1,0 +1,7 @@
+test_arith_18
+false
+Reduction Rules
+Reduction_46[Multiplication_1],2
+Reduction_43[Or_5],1
+Reduction_60[Sum_4],3
+Inference Rules

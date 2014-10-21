@@ -1,0 +1,6 @@
+SetComprehension_Valid_1
+true
+Reduction Rules
+Reduction_47[Multiplication_2],1
+Reduction_60[Sum_4],2
+Inference Rules

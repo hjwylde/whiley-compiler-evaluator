@@ -1,0 +1,6 @@
+test_set_15
+true
+Reduction Rules
+Reduction_36[And_4],1
+Inference Rules
+Inference_5[Set_SubsetEq_6],1

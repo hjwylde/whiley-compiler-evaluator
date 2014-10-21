@@ -1,0 +1,9 @@
+RecordDefine_Valid_1
+true
+Reduction Rules
+Reduction_49[Multiplication_4],2
+Reduction_47[Multiplication_2],8
+Reduction_60[Sum_4],18
+Reduction_62[Sum_6],4
+Inference Rules
+Inference_3[Inequality_3],2

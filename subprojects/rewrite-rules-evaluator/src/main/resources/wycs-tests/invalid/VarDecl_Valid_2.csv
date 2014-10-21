@@ -1,0 +1,9 @@
+VarDecl_Valid_2
+true
+Reduction Rules
+Reduction_49[Multiplication_4],2
+Reduction_47[Multiplication_2],4
+Reduction_68[Inequality_1],1
+Reduction_60[Sum_4],9
+Inference Rules
+Inference_3[Inequality_3],1

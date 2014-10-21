@@ -1,0 +1,21 @@
+test_list_02
+false
+Reduction Rules
+Reduction_72[],54
+Reduction_49[Multiplication_4],4
+Reduction_46[Multiplication_1],5
+Reduction_43[Or_5],198
+Reduction_34[And_2],1
+Reduction_40[Or_2],80
+Reduction_25[Load_1],3
+Reduction_38[And_6],200
+Reduction_35[And_3],453
+Reduction_36[And_4],288
+Reduction_9[OrType_2],143
+Reduction_68[Inequality_1],82
+Reduction_59[Sum_3],2
+Reduction_60[Sum_4],9
+Inference Rules
+Inference_2[Equation_3],3
+Inference_7[ForAll_6],8
+Inference_4[Inequality_4],1

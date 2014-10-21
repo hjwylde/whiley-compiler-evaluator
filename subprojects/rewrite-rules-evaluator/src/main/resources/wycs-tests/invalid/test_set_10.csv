@@ -1,0 +1,28 @@
+test_set_10
+true
+Reduction Rules
+Reduction_61[Sum_5],27
+Reduction_71[],10
+Reduction_49[Multiplication_4],34
+Reduction_46[Multiplication_1],95
+Reduction_33[And_1],3
+Reduction_43[Or_5],47
+Reduction_34[And_2],51
+Reduction_64[Equation_Gcd_1],5
+Reduction_39[Or_1],1
+Reduction_41[Or_3],48
+Reduction_65[Equation_4],4
+Reduction_38[And_6],64
+Reduction_35[And_3],12
+Reduction_48[Multiplication_3],60
+Reduction_80[Set_SubsetEq_3],2
+Reduction_68[Inequality_1],50
+Reduction_53[Division_4],36
+Reduction_60[Sum_4],163
+Reduction_47[Multiplication_2],129
+Reduction_57[Sum_1],133
+Reduction_62[Sum_6],72
+Reduction_70[Inequality_Gcd_1],31
+Inference Rules
+Inference_1[Equation_2],21
+Inference_3[Inequality_3],27

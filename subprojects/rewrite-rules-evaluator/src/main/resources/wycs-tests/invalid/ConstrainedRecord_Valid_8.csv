@@ -1,0 +1,33 @@
+ConstrainedRecord_Valid_8
+false
+Reduction Rules
+Reduction_47[Multiplication_2],214
+Reduction_75[Set_LengthOf_1],2
+Reduction_57[Sum_1],170
+Reduction_39[Or_1],1
+Reduction_48[Multiplication_3],3
+Reduction_27[EqualsTuple_1],117
+Reduction_25[Load_1],8
+Reduction_36[And_4],224
+Reduction_46[Multiplication_1],150
+Reduction_58[Sum_2],2
+Reduction_68[Inequality_1],63
+Reduction_67[Equation_6],26
+Reduction_70[Inequality_Gcd_1],54
+Reduction_59[Sum_3],23
+Reduction_38[And_6],624
+Reduction_35[And_3],54
+Reduction_43[Or_5],268
+Reduction_61[Sum_5],36
+Reduction_62[Sum_6],82
+Reduction_78[Set_SubsetEq_1],1
+Reduction_41[Or_3],73
+Reduction_90[Exists_4],2
+Reduction_49[Multiplication_4],30
+Reduction_65[Equation_4],10
+Reduction_60[Sum_4],229
+Reduction_71[],11
+Reduction_31[Not_3],40
+Reduction_34[And_2],72
+Inference Rules
+Inference_3[Inequality_3],36

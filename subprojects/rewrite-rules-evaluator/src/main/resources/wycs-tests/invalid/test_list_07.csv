@@ -1,0 +1,13 @@
+test_list_07
+true
+Reduction Rules
+Reduction_61[Sum_5],1
+Reduction_86[ForAll_4],8
+Reduction_49[Multiplication_4],5
+Reduction_46[Multiplication_1],6
+Reduction_35[And_3],3
+Reduction_75[Set_LengthOf_1],2
+Reduction_40[Or_2],4
+Reduction_59[Sum_3],11
+Reduction_60[Sum_4],14
+Inference Rules

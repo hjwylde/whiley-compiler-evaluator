@@ -1,0 +1,19 @@
+ListAssign_Valid_6
+false
+Reduction Rules
+Reduction_47[Multiplication_2],18
+Reduction_75[Set_LengthOf_1],4
+Reduction_57[Sum_1],12
+Reduction_62[Sum_6],4
+Reduction_48[Multiplication_3],11
+Reduction_27[EqualsTuple_1],6
+Reduction_25[Load_1],5
+Reduction_36[And_4],15
+Reduction_86[ForAll_4],2
+Reduction_46[Multiplication_1],4
+Reduction_60[Sum_4],34
+Reduction_68[Inequality_1],9
+Reduction_67[Equation_6],11
+Reduction_53[Division_4],6
+Inference Rules
+Inference_1[Equation_2],3

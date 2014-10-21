@@ -1,0 +1,8 @@
+ListAccess_Invalid_4
+false
+Reduction Rules
+Reduction_58[Sum_2],1
+Reduction_47[Multiplication_2],1
+Reduction_60[Sum_4],6
+Reduction_46[Multiplication_1],2
+Inference Rules

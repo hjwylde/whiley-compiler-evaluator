@@ -1,0 +1,7 @@
+test_055
+false
+Reduction Rules
+Reduction_33[And_1],1
+Reduction_79[Set_SubsetEq_2],3
+Inference Rules
+Inference_0[Equals_3],1

@@ -1,0 +1,11 @@
+ext {
+    libraries = [:]
+}
+
+libraries.ant = 'org.apache.ant:ant:1.9.4'
+libraries.commons_cli = 'commons-cli:commons-cli:1.2'
+libraries.guava = 'com.google.guava:guava:17.0'
+libraries.gson = 'com.google.code.gson:gson:2.2.4'
+libraries.junit = 'junit:junit:4.11'
+libraries.slf4j_log4j13 = 'org.slf4j:slf4j-log4j12:1.7.7'
+

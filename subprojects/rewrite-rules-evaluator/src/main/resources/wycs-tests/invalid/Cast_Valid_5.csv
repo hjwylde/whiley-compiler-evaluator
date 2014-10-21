@@ -1,0 +1,21 @@
+Cast_Valid_5
+true
+Reduction Rules
+Reduction_47[Multiplication_2],35
+Reduction_57[Sum_1],21
+Reduction_62[Sum_6],22
+Reduction_39[Or_1],10
+Reduction_48[Multiplication_3],36
+Reduction_25[Load_1],4
+Reduction_36[And_4],9
+Reduction_87[Exists_1],2
+Reduction_46[Multiplication_1],19
+Reduction_68[Inequality_1],6
+Reduction_60[Sum_4],47
+Reduction_53[Division_4],16
+Reduction_59[Sum_3],4
+Reduction_35[And_3],7
+Inference Rules
+Inference_3[Inequality_3],1
+Inference_4[Inequality_4],1
+Inference_1[Equation_2],4

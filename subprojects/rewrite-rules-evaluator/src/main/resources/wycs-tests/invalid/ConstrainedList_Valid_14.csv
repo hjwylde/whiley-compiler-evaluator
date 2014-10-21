@@ -1,0 +1,18 @@
+ConstrainedList_Valid_14
+false
+Reduction Rules
+Reduction_47[Multiplication_2],4
+Reduction_77[],1
+Reduction_43[Or_5],9
+Reduction_39[Or_1],1
+Reduction_62[Sum_6],2
+Reduction_48[Multiplication_3],6
+Reduction_25[Load_1],3
+Reduction_36[And_4],8
+Reduction_46[Multiplication_1],3
+Reduction_58[Sum_2],1
+Reduction_60[Sum_4],13
+Reduction_69[Inequality_2],4
+Reduction_38[And_6],12
+Inference Rules
+Inference_3[Inequality_3],1

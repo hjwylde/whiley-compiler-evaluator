@@ -1,0 +1,17 @@
+test_107
+false
+Reduction Rules
+Reduction_61[Sum_5],4
+Reduction_46[Multiplication_1],7
+Reduction_38[And_6],8
+Reduction_43[Or_5],5
+Reduction_36[And_4],20
+Reduction_48[Multiplication_3],12
+Reduction_39[Or_1],1
+Reduction_25[Load_1],2
+Reduction_60[Sum_4],15
+Reduction_62[Sum_6],10
+Reduction_58[Sum_2],9
+Inference Rules
+Inference_1[Equation_2],2
+Inference_4[Inequality_4],1

@@ -1,0 +1,9 @@
+Ensures_Valid_4
+true
+Reduction Rules
+Reduction_47[Multiplication_2],1
+Reduction_58[Sum_2],2
+Reduction_60[Sum_4],12
+Reduction_46[Multiplication_1],6
+Inference Rules
+Inference_4[Inequality_4],2

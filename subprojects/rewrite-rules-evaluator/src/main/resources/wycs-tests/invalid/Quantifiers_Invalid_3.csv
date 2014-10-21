@@ -1,0 +1,26 @@
+Quantifiers_Invalid_3
+false
+Reduction Rules
+Reduction_47[Multiplication_2],81
+Reduction_75[Set_LengthOf_1],1
+Reduction_64[Equation_Gcd_1],6
+Reduction_43[Or_5],1
+Reduction_57[Sum_1],75
+Reduction_62[Sum_6],19
+Reduction_27[EqualsTuple_1],5
+Reduction_48[Multiplication_3],25
+Reduction_25[Load_1],2
+Reduction_41[Or_3],24
+Reduction_36[And_4],62
+Reduction_46[Multiplication_1],57
+Reduction_63[Equation_1],8
+Reduction_58[Sum_2],3
+Reduction_49[Multiplication_4],2
+Reduction_67[Equation_6],15
+Reduction_53[Division_4],29
+Reduction_70[Inequality_Gcd_1],10
+Reduction_59[Sum_3],16
+Reduction_38[And_6],14
+Inference Rules
+Inference_2[Equation_3],9
+Inference_1[Equation_2],17

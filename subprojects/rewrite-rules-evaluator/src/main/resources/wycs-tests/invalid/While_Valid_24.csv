@@ -1,0 +1,18 @@
+While_Valid_24
+true
+Reduction Rules
+Reduction_58[Sum_2],2
+Reduction_47[Multiplication_2],11
+Reduction_60[Sum_4],33
+Reduction_57[Sum_1],2
+Reduction_39[Or_1],2
+Reduction_62[Sum_6],12
+Reduction_48[Multiplication_3],7
+Reduction_36[And_4],10
+Reduction_56[Division_7],4
+Reduction_59[Sum_3],7
+Reduction_46[Multiplication_1],9
+Inference Rules
+Inference_3[Inequality_3],1
+Inference_4[Inequality_4],3
+Inference_1[Equation_2],2

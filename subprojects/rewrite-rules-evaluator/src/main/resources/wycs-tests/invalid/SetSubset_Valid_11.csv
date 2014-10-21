@@ -1,0 +1,6 @@
+SetSubset_Valid_11
+true
+Reduction Rules
+Reduction_78[Set_SubsetEq_1],3
+Reduction_37[And_5],1
+Inference Rules

@@ -1,0 +1,18 @@
+SetElemOf_Invalid_2
+false
+Reduction Rules
+Reduction_47[Multiplication_2],17
+Reduction_65[Equation_4],3
+Reduction_68[Inequality_1],6
+Reduction_43[Or_5],7
+Reduction_57[Sum_1],16
+Reduction_61[Sum_5],4
+Reduction_62[Sum_6],8
+Reduction_48[Multiplication_3],5
+Reduction_78[Set_SubsetEq_1],1
+Reduction_71[],2
+Reduction_35[And_3],9
+Reduction_46[Multiplication_1],14
+Inference Rules
+Inference_3[Inequality_3],4
+Inference_1[Equation_2],2

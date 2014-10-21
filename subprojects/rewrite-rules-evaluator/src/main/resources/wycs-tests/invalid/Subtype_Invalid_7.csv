@@ -1,0 +1,7 @@
+Subtype_Invalid_7
+false
+Reduction Rules
+Reduction_47[Multiplication_2],2
+Reduction_68[Inequality_1],1
+Reduction_60[Sum_4],3
+Inference Rules

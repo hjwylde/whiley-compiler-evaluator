@@ -1,0 +1,8 @@
+test_arith_20
+true
+Reduction Rules
+Reduction_58[Sum_2],1
+Reduction_47[Multiplication_2],2
+Reduction_60[Sum_4],4
+Inference Rules
+Inference_4[Inequality_4],1

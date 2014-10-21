@@ -1,0 +1,20 @@
+SetUnion_Valid_2
+true
+Reduction Rules
+Reduction_58[Sum_2],17
+Reduction_47[Multiplication_2],15
+Reduction_60[Sum_4],13
+Reduction_57[Sum_1],4
+Reduction_62[Sum_6],8
+Reduction_89[Exists_3],1
+Reduction_53[Division_4],4
+Reduction_39[Or_1],5
+Reduction_48[Multiplication_3],9
+Reduction_25[Load_1],4
+Reduction_36[And_4],21
+Reduction_56[Division_7],4
+Reduction_46[Multiplication_1],7
+Inference Rules
+Inference_3[Inequality_3],1
+Inference_4[Inequality_4],1
+Inference_1[Equation_2],4

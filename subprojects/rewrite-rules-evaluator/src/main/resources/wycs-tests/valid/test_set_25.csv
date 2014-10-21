@@ -1,0 +1,19 @@
+test_set_25
+true
+Reduction Rules
+Reduction_47[Multiplication_2],16
+Reduction_64[Equation_Gcd_1],2
+Reduction_57[Sum_1],13
+Reduction_43[Or_5],10
+Reduction_89[Exists_3],1
+Reduction_62[Sum_6],5
+Reduction_48[Multiplication_3],4
+Reduction_37[And_5],11
+Reduction_46[Multiplication_1],17
+Reduction_60[Sum_4],21
+Reduction_68[Inequality_1],7
+Reduction_67[Equation_6],3
+Reduction_38[And_6],12
+Inference Rules
+Inference_2[Equation_3],4
+Inference_1[Equation_2],3

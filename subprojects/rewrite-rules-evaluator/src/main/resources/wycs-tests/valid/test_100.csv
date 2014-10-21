@@ -1,0 +1,22 @@
+test_100
+true
+Reduction Rules
+Reduction_47[Multiplication_2],54
+Reduction_57[Sum_1],34
+Reduction_39[Or_1],1
+Reduction_27[EqualsTuple_1],4
+Reduction_48[Multiplication_3],27
+Reduction_41[Or_3],7
+Reduction_36[And_4],24
+Reduction_46[Multiplication_1],55
+Reduction_63[Equation_1],3
+Reduction_49[Multiplication_4],26
+Reduction_68[Inequality_1],6
+Reduction_60[Sum_4],59
+Reduction_67[Equation_6],10
+Reduction_53[Division_4],25
+Reduction_80[Set_SubsetEq_3],2
+Reduction_38[And_6],11
+Reduction_34[And_2],8
+Inference Rules
+Inference_1[Equation_2],25

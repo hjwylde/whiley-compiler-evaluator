@@ -1,0 +1,14 @@
+Switch_Valid_1
+true
+Reduction Rules
+Reduction_49[Multiplication_4],3
+Reduction_47[Multiplication_2],13
+Reduction_60[Sum_4],23
+Reduction_57[Sum_1],5
+Reduction_43[Or_5],2
+Reduction_61[Sum_5],1
+Reduction_62[Sum_6],11
+Reduction_48[Multiplication_3],1
+Reduction_38[And_6],6
+Inference Rules
+Inference_1[Equation_2],2

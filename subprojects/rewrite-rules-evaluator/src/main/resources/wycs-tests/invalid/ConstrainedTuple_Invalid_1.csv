@@ -1,0 +1,10 @@
+ConstrainedTuple_Invalid_1
+false
+Reduction Rules
+Reduction_49[Multiplication_4],2
+Reduction_47[Multiplication_2],9
+Reduction_68[Inequality_1],1
+Reduction_60[Sum_4],16
+Reduction_62[Sum_6],4
+Inference Rules
+Inference_3[Inequality_3],2

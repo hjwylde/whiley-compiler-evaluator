@@ -1,0 +1,8 @@
+test_set_13
+true
+Reduction Rules
+Reduction_47[Multiplication_2],1
+Reduction_60[Sum_4],4
+Reduction_39[Or_1],2
+Inference Rules
+Inference_4[Inequality_4],1

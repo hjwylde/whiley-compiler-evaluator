@@ -1,0 +1,13 @@
+ListAccess_Valid_1
+true
+Reduction Rules
+Reduction_47[Multiplication_2],10
+Reduction_58[Sum_2],2
+Reduction_77[],2
+Reduction_60[Sum_4],44
+Reduction_75[Set_LengthOf_1],2
+Reduction_61[Sum_5],2
+Reduction_62[Sum_6],7
+Reduction_36[And_4],4
+Reduction_46[Multiplication_1],8
+Inference Rules

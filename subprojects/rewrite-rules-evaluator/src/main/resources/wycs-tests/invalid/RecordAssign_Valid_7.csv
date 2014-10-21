@@ -1,0 +1,12 @@
+RecordAssign_Valid_7
+true
+Reduction Rules
+Reduction_49[Multiplication_4],1
+Reduction_47[Multiplication_2],14
+Reduction_60[Sum_4],32
+Reduction_57[Sum_1],5
+Reduction_62[Sum_6],2
+Reduction_59[Sum_3],2
+Reduction_46[Multiplication_1],13
+Inference Rules
+Inference_3[Inequality_3],2

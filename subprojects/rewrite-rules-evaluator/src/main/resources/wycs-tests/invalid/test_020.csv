@@ -1,0 +1,12 @@
+test_020
+false
+Reduction Rules
+Reduction_71[],2
+Reduction_49[Multiplication_4],4
+Reduction_46[Multiplication_1],8
+Reduction_33[And_1],1
+Reduction_48[Multiplication_3],6
+Reduction_60[Sum_4],12
+Reduction_47[Multiplication_2],10
+Inference Rules
+Inference_1[Equation_2],2

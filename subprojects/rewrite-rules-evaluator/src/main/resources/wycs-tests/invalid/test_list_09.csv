@@ -1,0 +1,37 @@
+test_list_09
+false
+Reduction Rules
+Reduction_61[Sum_5],56
+Reduction_46[Multiplication_1],476
+Reduction_34[And_2],542
+Reduction_64[Equation_Gcd_1],178
+Reduction_39[Or_1],4
+Reduction_75[Set_LengthOf_1],2
+Reduction_90[Exists_4],1
+Reduction_65[Equation_4],12
+Reduction_35[And_3],223
+Reduction_9[OrType_2],54
+Reduction_68[Inequality_1],309
+Reduction_53[Division_4],16
+Reduction_59[Sum_3],3
+Reduction_81[Set_SubsetEq_4],60
+Reduction_57[Sum_1],679
+Reduction_71[],114
+Reduction_49[Multiplication_4],26
+Reduction_33[And_1],173
+Reduction_43[Or_5],317
+Reduction_31[Not_3],10
+Reduction_67[Equation_6],25
+Reduction_38[And_6],307
+Reduction_36[And_4],994
+Reduction_48[Multiplication_3],23
+Reduction_63[Equation_1],318
+Reduction_60[Sum_4],975
+Reduction_47[Multiplication_2],508
+Reduction_70[Inequality_Gcd_1],220
+Reduction_62[Sum_6],40
+Inference Rules
+Inference_1[Equation_2],8
+Inference_7[ForAll_6],3
+Inference_3[Inequality_3],56
+Inference_6[ForAll_5],2

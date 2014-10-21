@@ -1,0 +1,9 @@
+test_118
+false
+Reduction Rules
+Reduction_49[Multiplication_4],1
+Reduction_56[Division_7],4
+Reduction_36[And_4],3
+Reduction_67[Equation_6],2
+Inference Rules
+Inference_1[Equation_2],2

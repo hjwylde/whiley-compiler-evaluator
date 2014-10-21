@@ -1,0 +1,7 @@
+IntDiv_Invalid_1
+false
+Reduction Rules
+Reduction_58[Sum_2],2
+Reduction_33[And_1],1
+Inference Rules
+Inference_2[Equation_3],1

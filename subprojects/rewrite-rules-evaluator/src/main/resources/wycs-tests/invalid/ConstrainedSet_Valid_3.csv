@@ -1,0 +1,16 @@
+ConstrainedSet_Valid_3
+true
+Reduction Rules
+Reduction_49[Multiplication_4],6
+Reduction_47[Multiplication_2],35
+Reduction_68[Inequality_1],2
+Reduction_60[Sum_4],62
+Reduction_57[Sum_1],21
+Reduction_89[Exists_3],2
+Reduction_61[Sum_5],6
+Reduction_62[Sum_6],10
+Reduction_48[Multiplication_3],8
+Reduction_56[Division_7],4
+Reduction_46[Multiplication_1],28
+Inference Rules
+Inference_3[Inequality_3],4

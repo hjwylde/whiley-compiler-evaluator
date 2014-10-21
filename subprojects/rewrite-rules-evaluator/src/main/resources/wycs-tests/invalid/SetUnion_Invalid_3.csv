@@ -1,0 +1,6 @@
+SetUnion_Invalid_3
+false
+Reduction Rules
+Reduction_47[Multiplication_2],1
+Reduction_25[Load_1],2
+Inference Rules

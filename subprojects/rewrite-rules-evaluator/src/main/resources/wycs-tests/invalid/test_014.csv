@@ -1,0 +1,9 @@
+test_014
+false
+Reduction Rules
+Reduction_49[Multiplication_4],2
+Reduction_46[Multiplication_1],1
+Reduction_25[Load_1],6
+Reduction_59[Sum_3],3
+Reduction_60[Sum_4],4
+Inference Rules

@@ -1,0 +1,8 @@
+apply plugin: 'application'
+
+dependencies {
+    compile libraries.slf4j_log4j13
+}
+
+mainClassName = 'com.hjwylde.whiley.rewrite_rules.evaluator.Main'
+

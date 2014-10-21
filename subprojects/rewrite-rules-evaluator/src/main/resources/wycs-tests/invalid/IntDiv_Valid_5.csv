@@ -1,0 +1,14 @@
+IntDiv_Valid_5
+true
+Reduction Rules
+Reduction_49[Multiplication_4],6
+Reduction_47[Multiplication_2],11
+Reduction_33[And_1],2
+Reduction_60[Sum_4],15
+Reduction_57[Sum_1],3
+Reduction_39[Or_1],1
+Reduction_62[Sum_6],7
+Reduction_56[Division_7],4
+Reduction_46[Multiplication_1],9
+Inference Rules
+Inference_1[Equation_2],2

@@ -1,0 +1,8 @@
+ListGenerator_Valid_2
+false
+Reduction Rules
+Reduction_47[Multiplication_2],4
+Reduction_33[And_1],1
+Reduction_62[Sum_6],2
+Reduction_46[Multiplication_1],3
+Inference Rules

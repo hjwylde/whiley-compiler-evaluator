@@ -1,0 +1,8 @@
+TupleAssign_Invalid_1
+false
+Reduction Rules
+Reduction_47[Multiplication_2],2
+Reduction_60[Sum_4],4
+Reduction_40[Or_2],1
+Reduction_25[Load_1],3
+Inference Rules

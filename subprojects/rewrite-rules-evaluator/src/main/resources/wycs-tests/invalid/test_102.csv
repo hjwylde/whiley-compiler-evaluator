@@ -1,0 +1,26 @@
+test_102
+false
+Reduction Rules
+Reduction_49[Multiplication_4],206
+Reduction_46[Multiplication_1],391
+Reduction_43[Or_5],51
+Reduction_34[And_2],64
+Reduction_64[Equation_Gcd_1],16
+Reduction_31[Not_3],1
+Reduction_65[Equation_4],2
+Reduction_27[EqualsTuple_1],7
+Reduction_38[And_6],71
+Reduction_35[And_3],57
+Reduction_48[Multiplication_3],208
+Reduction_36[And_4],139
+Reduction_53[Division_4],176
+Reduction_68[Inequality_1],38
+Reduction_63[Equation_1],32
+Reduction_59[Sum_3],12
+Reduction_60[Sum_4],476
+Reduction_47[Multiplication_2],356
+Reduction_57[Sum_1],244
+Reduction_62[Sum_6],236
+Reduction_70[Inequality_Gcd_1],6
+Inference Rules
+Inference_1[Equation_2],176

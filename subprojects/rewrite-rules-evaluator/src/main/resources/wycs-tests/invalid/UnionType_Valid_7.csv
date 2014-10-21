@@ -1,0 +1,7 @@
+UnionType_Valid_7
+true
+Reduction Rules
+Reduction_47[Multiplication_2],2
+Reduction_60[Sum_4],4
+Reduction_57[Sum_1],1
+Inference Rules

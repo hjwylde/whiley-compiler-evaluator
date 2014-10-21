@@ -1,0 +1,9 @@
+SetComprehension_Invalid_6
+false
+Reduction Rules
+Reduction_47[Multiplication_2],3
+Reduction_60[Sum_4],6
+Reduction_43[Or_5],3
+Reduction_25[Load_1],2
+Reduction_36[And_4],2
+Inference Rules

@@ -1,0 +1,21 @@
+ConstrainedInt_Invalid_8
+false
+Reduction Rules
+Reduction_47[Multiplication_2],70
+Reduction_57[Sum_1],84
+Reduction_39[Or_1],1
+Reduction_62[Sum_6],40
+Reduction_61[Sum_5],20
+Reduction_48[Multiplication_3],17
+Reduction_46[Multiplication_1],65
+Reduction_49[Multiplication_4],19
+Reduction_60[Sum_4],95
+Reduction_68[Inequality_1],31
+Reduction_67[Equation_6],5
+Reduction_53[Division_4],12
+Reduction_70[Inequality_Gcd_1],23
+Reduction_35[And_3],4
+Reduction_38[And_6],32
+Inference Rules
+Inference_3[Inequality_3],20
+Inference_1[Equation_2],11

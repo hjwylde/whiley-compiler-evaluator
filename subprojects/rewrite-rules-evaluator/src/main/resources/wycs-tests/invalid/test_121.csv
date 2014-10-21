@@ -1,0 +1,13 @@
+test_121
+false
+Reduction Rules
+Reduction_61[Sum_5],4
+Reduction_49[Multiplication_4],6
+Reduction_46[Multiplication_1],5
+Reduction_43[Or_5],3
+Reduction_48[Multiplication_3],12
+Reduction_90[Exists_4],1
+Reduction_60[Sum_4],8
+Reduction_67[Equation_6],2
+Inference Rules
+Inference_1[Equation_2],2

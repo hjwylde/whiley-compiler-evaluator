@@ -1,0 +1,21 @@
+test_109
+false
+Reduction Rules
+Reduction_49[Multiplication_4],13
+Reduction_43[Or_5],317
+Reduction_39[Or_1],16
+Reduction_90[Exists_4],1
+Reduction_67[Equation_6],4
+Reduction_65[Equation_4],2
+Reduction_56[Division_7],32
+Reduction_38[And_6],332
+Reduction_36[And_4],331
+Reduction_48[Multiplication_3],40
+Reduction_59[Sum_3],7
+Reduction_47[Multiplication_2],43
+Reduction_58[Sum_2],34
+Reduction_62[Sum_6],15
+Inference Rules
+Inference_1[Equation_2],16
+Inference_7[ForAll_6],8
+Inference_6[ForAll_5],5

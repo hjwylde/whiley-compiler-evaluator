@@ -1,0 +1,27 @@
+Complex_Valid_6
+true
+Reduction Rules
+Reduction_47[Multiplication_2],14
+Reduction_33[And_1],1
+Reduction_43[Or_5],8
+Reduction_57[Sum_1],19
+Reduction_39[Or_1],2
+Reduction_62[Sum_6],101
+Reduction_61[Sum_5],77
+Reduction_48[Multiplication_3],102
+Reduction_41[Or_3],5
+Reduction_36[And_4],30
+Reduction_46[Multiplication_1],86
+Reduction_49[Multiplication_4],62
+Reduction_68[Inequality_1],1
+Reduction_60[Sum_4],155
+Reduction_67[Equation_6],4
+Reduction_53[Division_4],4
+Reduction_70[Inequality_Gcd_1],6
+Reduction_59[Sum_3],25
+Reduction_35[And_3],3
+Reduction_38[And_6],4
+Reduction_34[And_2],5
+Inference Rules
+Inference_3[Inequality_3],17
+Inference_1[Equation_2],4

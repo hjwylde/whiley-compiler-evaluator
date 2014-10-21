@@ -1,0 +1,13 @@
+BoolRequires_Valid_1
+true
+Reduction Rules
+Reduction_47[Multiplication_2],12
+Reduction_60[Sum_4],12
+Reduction_64[Equation_Gcd_1],1
+Reduction_75[Set_LengthOf_1],3
+Reduction_57[Sum_1],2
+Reduction_78[Set_SubsetEq_1],1
+Reduction_25[Load_1],2
+Reduction_36[And_4],12
+Reduction_35[And_3],7
+Inference Rules

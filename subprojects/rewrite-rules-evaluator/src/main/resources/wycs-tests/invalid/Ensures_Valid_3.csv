@@ -1,0 +1,15 @@
+Ensures_Valid_3
+false
+Reduction Rules
+Reduction_47[Multiplication_2],10
+Reduction_60[Sum_4],23
+Reduction_75[Set_LengthOf_1],4
+Reduction_43[Or_5],3
+Reduction_44[Equals_1],2
+Reduction_36[And_4],30
+Reduction_90[Exists_4],2
+Reduction_59[Sum_3],3
+Reduction_35[And_3],5
+Reduction_46[Multiplication_1],10
+Inference Rules
+Inference_4[Inequality_4],1

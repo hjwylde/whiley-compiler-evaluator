@@ -1,0 +1,9 @@
+test_059
+false
+Reduction Rules
+Reduction_72[],1
+Reduction_35[And_3],2
+Reduction_39[Or_1],3
+Inference Rules
+Inference_2[Equation_3],1
+Inference_6[ForAll_5],2

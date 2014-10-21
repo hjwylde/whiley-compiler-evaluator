@@ -1,0 +1,11 @@
+While_Valid_22
+false
+Reduction Rules
+Reduction_47[Multiplication_2],3
+Reduction_58[Sum_2],1
+Reduction_77[],1
+Reduction_60[Sum_4],17
+Reduction_62[Sum_6],2
+Reduction_25[Load_1],2
+Reduction_46[Multiplication_1],3
+Inference Rules

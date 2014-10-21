@@ -1,0 +1,8 @@
+Subtype_Valid_7
+true
+Reduction Rules
+Reduction_47[Multiplication_2],3
+Reduction_60[Sum_4],8
+Reduction_75[Set_LengthOf_1],1
+Reduction_46[Multiplication_1],2
+Inference Rules

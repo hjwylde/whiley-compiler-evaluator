@@ -1,0 +1,10 @@
+test_set_22
+false
+Reduction Rules
+Reduction_47[Multiplication_2],1
+Reduction_60[Sum_4],3
+Reduction_62[Sum_6],2
+Reduction_36[And_4],4
+Reduction_79[Set_SubsetEq_2],8
+Inference Rules
+Inference_4[Inequality_4],1

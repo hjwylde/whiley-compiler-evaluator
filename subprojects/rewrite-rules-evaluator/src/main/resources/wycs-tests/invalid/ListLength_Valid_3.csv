@@ -1,0 +1,26 @@
+ListLength_Valid_3
+true
+Reduction Rules
+Reduction_47[Multiplication_2],82
+Reduction_33[And_1],2
+Reduction_75[Set_LengthOf_1],5
+Reduction_64[Equation_Gcd_1],14
+Reduction_43[Or_5],53
+Reduction_57[Sum_1],52
+Reduction_62[Sum_6],4
+Reduction_27[EqualsTuple_1],72
+Reduction_48[Multiplication_3],9
+Reduction_25[Load_1],26
+Reduction_41[Or_3],4
+Reduction_36[And_4],328
+Reduction_46[Multiplication_1],24
+Reduction_68[Inequality_1],3
+Reduction_60[Sum_4],265
+Reduction_67[Equation_6],127
+Reduction_53[Division_4],4
+Reduction_80[Set_SubsetEq_3],3
+Reduction_38[And_6],60
+Reduction_35[And_3],134
+Reduction_34[And_2],118
+Inference Rules
+Inference_1[Equation_2],4

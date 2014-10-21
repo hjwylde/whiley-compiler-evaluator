@@ -1,0 +1,19 @@
+ConstrainedList_Invalid_1
+false
+Reduction Rules
+Reduction_58[Sum_2],8
+Reduction_47[Multiplication_2],30
+Reduction_68[Inequality_1],3
+Reduction_60[Sum_4],42
+Reduction_57[Sum_1],15
+Reduction_89[Exists_3],2
+Reduction_39[Or_1],4
+Reduction_53[Division_4],6
+Reduction_48[Multiplication_3],6
+Reduction_70[Inequality_Gcd_1],3
+Reduction_36[And_4],18
+Reduction_59[Sum_3],5
+Reduction_46[Multiplication_1],28
+Inference Rules
+Inference_3[Inequality_3],2
+Inference_1[Equation_2],8

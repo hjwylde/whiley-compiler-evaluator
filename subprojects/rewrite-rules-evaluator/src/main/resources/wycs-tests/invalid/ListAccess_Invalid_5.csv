@@ -1,0 +1,13 @@
+ListAccess_Invalid_5
+false
+Reduction Rules
+Reduction_58[Sum_2],2
+Reduction_47[Multiplication_2],9
+Reduction_68[Inequality_1],2
+Reduction_60[Sum_4],18
+Reduction_57[Sum_1],2
+Reduction_48[Multiplication_3],3
+Reduction_36[And_4],9
+Reduction_59[Sum_3],4
+Inference Rules
+Inference_1[Equation_2],1

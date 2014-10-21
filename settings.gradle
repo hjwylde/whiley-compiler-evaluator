@@ -1,0 +1,17 @@
+def subprojectsDir = 'subprojects'
+
+// Add all of the subprojects as direct children of the root project
+file(subprojectsDir).listFiles().each {
+    include it.name
+    project(":$it.name").projectDir = file("$subprojectsDir/$it.name")
+}
+
+include 'wycs'
+project(':wycs').projectDir = file('../whiley-compiler/modules/wycs/')
+
+include 'wyrl'
+project(':wyrl').projectDir = file('../whiley-compiler/modules/wyrl/')
+
+include 'wybs'
+project(':wybs').projectDir = file('../whiley-compiler/modules/wybs/')
+

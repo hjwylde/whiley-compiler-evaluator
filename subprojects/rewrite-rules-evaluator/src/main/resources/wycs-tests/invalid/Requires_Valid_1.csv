@@ -1,0 +1,6 @@
+Requires_Valid_1
+true
+Reduction Rules
+Reduction_33[And_1],2
+Reduction_57[Sum_1],1
+Inference Rules

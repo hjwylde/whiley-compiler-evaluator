@@ -1,0 +1,14 @@
+Char_Valid_5
+true
+Reduction Rules
+Reduction_47[Multiplication_2],17
+Reduction_58[Sum_2],2
+Reduction_60[Sum_4],52
+Reduction_75[Set_LengthOf_1],5
+Reduction_62[Sum_6],2
+Reduction_36[And_4],3
+Reduction_59[Sum_3],3
+Reduction_46[Multiplication_1],12
+Inference Rules
+Inference_3[Inequality_3],1
+Inference_4[Inequality_4],1

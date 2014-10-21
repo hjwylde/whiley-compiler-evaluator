@@ -1,0 +1,7 @@
+SetSubset_Invalid_3
+false
+Reduction Rules
+Reduction_40[Or_2],1
+Reduction_78[Set_SubsetEq_1],1
+Reduction_29[Not_1],4
+Inference Rules

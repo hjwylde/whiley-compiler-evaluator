@@ -1,0 +1,11 @@
+TupleAssign_Invalid_2
+false
+Reduction Rules
+Reduction_47[Multiplication_2],2
+Reduction_49[Multiplication_4],3
+Reduction_60[Sum_4],9
+Reduction_62[Sum_6],5
+Reduction_48[Multiplication_3],2
+Reduction_46[Multiplication_1],4
+Inference Rules
+Inference_3[Inequality_3],1

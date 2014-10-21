@@ -1,0 +1,14 @@
+For_Valid_18
+true
+Reduction Rules
+Reduction_47[Multiplication_2],15
+Reduction_60[Sum_4],18
+Reduction_57[Sum_1],10
+Reduction_39[Or_1],1
+Reduction_62[Sum_6],6
+Reduction_48[Multiplication_3],5
+Reduction_41[Or_3],4
+Reduction_38[And_6],2
+Reduction_46[Multiplication_1],16
+Inference Rules
+Inference_1[Equation_2],5

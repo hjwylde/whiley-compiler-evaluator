@@ -1,0 +1,9 @@
+While_Invalid_10
+false
+Reduction Rules
+Reduction_58[Sum_2],2
+Reduction_47[Multiplication_2],3
+Reduction_60[Sum_4],13
+Reduction_75[Set_LengthOf_1],1
+Reduction_62[Sum_6],3
+Inference Rules

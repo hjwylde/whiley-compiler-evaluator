@@ -1,0 +1,9 @@
+ConstrainedList_Invalid_2
+false
+Reduction Rules
+Reduction_49[Multiplication_4],1
+Reduction_47[Multiplication_2],7
+Reduction_60[Sum_4],19
+Reduction_46[Multiplication_1],6
+Inference Rules
+Inference_3[Inequality_3],1

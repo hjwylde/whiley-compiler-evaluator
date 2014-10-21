@@ -1,0 +1,11 @@
+test_macro_02
+true
+Reduction Rules
+Reduction_60[Sum_4],8
+Reduction_57[Sum_1],1
+Reduction_62[Sum_6],5
+Reduction_48[Multiplication_3],3
+Reduction_25[Load_1],6
+Reduction_46[Multiplication_1],4
+Inference Rules
+Inference_3[Inequality_3],2

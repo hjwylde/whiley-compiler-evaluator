@@ -1,0 +1,17 @@
+Quantifiers_Invalid_1
+false
+Reduction Rules
+Reduction_58[Sum_2],1
+Reduction_47[Multiplication_2],18
+Reduction_68[Inequality_1],6
+Reduction_67[Equation_6],3
+Reduction_43[Or_5],8
+Reduction_57[Sum_1],16
+Reduction_53[Division_4],4
+Reduction_48[Multiplication_3],5
+Reduction_71[],2
+Reduction_38[And_6],7
+Reduction_46[Multiplication_1],15
+Inference Rules
+Inference_3[Inequality_3],4
+Inference_1[Equation_2],2

@@ -1,0 +1,23 @@
+ListAppend_Valid_3
+false
+Reduction Rules
+Reduction_47[Multiplication_2],1
+Reduction_57[Sum_1],4
+Reduction_43[Or_5],193
+Reduction_62[Sum_6],24
+Reduction_61[Sum_5],19
+Reduction_48[Multiplication_3],42
+Reduction_25[Load_1],2
+Reduction_41[Or_3],149
+Reduction_37[And_5],155
+Reduction_36[And_4],10
+Reduction_58[Sum_2],27
+Reduction_60[Sum_4],50
+Reduction_81[Set_SubsetEq_4],18
+Reduction_59[Sum_3],11
+Reduction_38[And_6],192
+Inference Rules
+Inference_7[ForAll_6],5
+Inference_3[Inequality_3],1
+Inference_4[Inequality_4],6
+Inference_6[ForAll_5],22

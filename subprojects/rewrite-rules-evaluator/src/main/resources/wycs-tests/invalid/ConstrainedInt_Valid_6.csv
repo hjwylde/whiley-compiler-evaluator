@@ -1,0 +1,32 @@
+ConstrainedInt_Valid_6
+true
+Reduction Rules
+Reduction_47[Multiplication_2],519
+Reduction_64[Equation_Gcd_1],16
+Reduction_57[Sum_1],529
+Reduction_39[Or_1],1
+Reduction_48[Multiplication_3],245
+Reduction_36[And_4],417
+Reduction_46[Multiplication_1],362
+Reduction_58[Sum_2],4
+Reduction_68[Inequality_1],196
+Reduction_67[Equation_6],8
+Reduction_53[Division_4],155
+Reduction_80[Set_SubsetEq_3],2
+Reduction_70[Inequality_Gcd_1],122
+Reduction_38[And_6],148
+Reduction_35[And_3],39
+Reduction_33[And_1],2
+Reduction_43[Or_5],128
+Reduction_62[Sum_6],286
+Reduction_61[Sum_5],109
+Reduction_41[Or_3],193
+Reduction_63[Equation_1],42
+Reduction_49[Multiplication_4],1
+Reduction_60[Sum_4],660
+Reduction_65[Equation_4],5
+Reduction_71[],13
+Reduction_34[And_2],204
+Inference Rules
+Inference_3[Inequality_3],109
+Inference_1[Equation_2],88

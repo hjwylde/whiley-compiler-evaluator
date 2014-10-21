@@ -1,0 +1,8 @@
+test_002
+false
+Reduction Rules
+Reduction_71[],1
+Reduction_49[Multiplication_4],2
+Reduction_46[Multiplication_1],3
+Reduction_60[Sum_4],6
+Inference Rules

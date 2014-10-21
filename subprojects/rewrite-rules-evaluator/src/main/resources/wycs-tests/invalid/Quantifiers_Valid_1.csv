@@ -1,0 +1,13 @@
+Quantifiers_Valid_1
+true
+Reduction Rules
+Reduction_47[Multiplication_2],10
+Reduction_60[Sum_4],12
+Reduction_57[Sum_1],6
+Reduction_39[Or_1],1
+Reduction_62[Sum_6],4
+Reduction_48[Multiplication_3],3
+Reduction_41[Or_3],2
+Reduction_46[Multiplication_1],10
+Inference Rules
+Inference_1[Equation_2],3

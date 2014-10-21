@@ -1,0 +1,15 @@
+ConstrainedInt_Valid_16
+false
+Reduction Rules
+Reduction_47[Multiplication_2],8
+Reduction_33[And_1],6
+Reduction_57[Sum_1],2
+Reduction_43[Or_5],92
+Reduction_61[Sum_5],1
+Reduction_62[Sum_6],12
+Reduction_78[Set_SubsetEq_1],3
+Reduction_41[Or_3],25
+Reduction_36[And_4],548
+Reduction_38[And_6],170
+Reduction_34[And_2],60
+Inference Rules

@@ -1,0 +1,9 @@
+ListSublist_Valid_2
+true
+Reduction Rules
+Reduction_47[Multiplication_2],3
+Reduction_60[Sum_4],5
+Reduction_57[Sum_1],1
+Reduction_36[And_4],2
+Reduction_46[Multiplication_1],3
+Inference Rules

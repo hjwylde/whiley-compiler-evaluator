@@ -1,0 +1,14 @@
+RealSub_Valid_1
+true
+Reduction Rules
+Reduction_47[Multiplication_2],12
+Reduction_60[Sum_4],15
+Reduction_64[Equation_Gcd_1],2
+Reduction_57[Sum_1],9
+Reduction_39[Or_1],1
+Reduction_62[Sum_6],5
+Reduction_48[Multiplication_3],4
+Reduction_41[Or_3],3
+Inference Rules
+Inference_3[Inequality_3],1
+Inference_1[Equation_2],3

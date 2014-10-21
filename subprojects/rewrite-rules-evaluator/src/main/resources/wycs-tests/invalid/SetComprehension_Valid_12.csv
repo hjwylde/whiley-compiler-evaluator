@@ -1,0 +1,18 @@
+SetComprehension_Valid_12
+false
+Reduction Rules
+Reduction_47[Multiplication_2],18
+Reduction_68[Inequality_1],6
+Reduction_60[Sum_4],20
+Reduction_67[Equation_6],4
+Reduction_43[Or_5],11
+Reduction_57[Sum_1],16
+Reduction_39[Or_1],1
+Reduction_48[Multiplication_3],7
+Reduction_25[Load_1],2
+Reduction_41[Or_3],8
+Reduction_36[And_4],3
+Reduction_38[And_6],10
+Inference Rules
+Inference_3[Inequality_3],4
+Inference_1[Equation_2],2

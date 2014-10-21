@@ -1,0 +1,22 @@
+While_Valid_33
+true
+Reduction Rules
+Reduction_47[Multiplication_2],22
+Reduction_33[And_1],4
+Reduction_57[Sum_1],6
+Reduction_62[Sum_6],20
+Reduction_39[Or_1],7
+Reduction_27[EqualsTuple_1],3
+Reduction_44[Equals_1],4
+Reduction_36[And_4],46
+Reduction_37[And_5],5
+Reduction_90[Exists_4],20
+Reduction_46[Multiplication_1],27
+Reduction_58[Sum_2],14
+Reduction_60[Sum_4],87
+Reduction_38[And_6],2
+Inference Rules
+Inference_3[Inequality_3],1
+Inference_4[Inequality_4],5
+Inference_1[Equation_2],3
+Inference_6[ForAll_5],1

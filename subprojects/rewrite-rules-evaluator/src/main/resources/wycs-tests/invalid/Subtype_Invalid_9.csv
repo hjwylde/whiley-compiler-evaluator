@@ -1,0 +1,30 @@
+Subtype_Invalid_9
+false
+Reduction Rules
+Reduction_47[Multiplication_2],30
+Reduction_33[And_1],12
+Reduction_75[Set_LengthOf_1],2
+Reduction_43[Or_5],163
+Reduction_57[Sum_1],29
+Reduction_39[Or_1],7
+Reduction_62[Sum_6],16
+Reduction_48[Multiplication_3],3
+Reduction_27[EqualsTuple_1],6
+Reduction_41[Or_3],74
+Reduction_36[And_4],397
+Reduction_46[Multiplication_1],23
+Reduction_49[Multiplication_4],9
+Reduction_68[Inequality_1],13
+Reduction_60[Sum_4],46
+Reduction_67[Equation_6],10
+Reduction_80[Set_SubsetEq_3],2
+Reduction_70[Inequality_Gcd_1],8
+Reduction_81[Set_SubsetEq_4],4
+Reduction_72[],25
+Reduction_71[],5
+Reduction_38[And_6],272
+Reduction_35[And_3],106
+Reduction_34[And_2],160
+Inference Rules
+Inference_3[Inequality_3],8
+Inference_2[Equation_3],2

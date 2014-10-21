@@ -1,0 +1,8 @@
+test_set_13
+true
+Reduction Rules
+Reduction_49[Multiplication_4],1
+Reduction_46[Multiplication_1],2
+Reduction_60[Sum_4],4
+Inference Rules
+Inference_6[ForAll_5],1

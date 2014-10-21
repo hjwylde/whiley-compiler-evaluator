@@ -1,0 +1,15 @@
+UnionType_Valid_2
+true
+Reduction Rules
+Reduction_47[Multiplication_2],17
+Reduction_58[Sum_2],20
+Reduction_60[Sum_4],101
+Reduction_57[Sum_1],1
+Reduction_62[Sum_6],21
+Reduction_25[Load_1],6
+Reduction_36[And_4],49
+Reduction_59[Sum_3],33
+Reduction_46[Multiplication_1],17
+Inference Rules
+Inference_3[Inequality_3],3
+Inference_4[Inequality_4],11

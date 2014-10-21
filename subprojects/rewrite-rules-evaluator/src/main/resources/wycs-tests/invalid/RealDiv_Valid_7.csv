@@ -1,0 +1,11 @@
+RealDiv_Valid_7
+true
+Reduction Rules
+Reduction_47[Multiplication_2],12
+Reduction_60[Sum_4],24
+Reduction_57[Sum_1],4
+Reduction_39[Or_1],2
+Reduction_41[Or_3],6
+Reduction_38[And_6],12
+Inference Rules
+Inference_2[Equation_3],8

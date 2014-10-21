@@ -1,0 +1,13 @@
+apply plugin: 'application'
+
+dependencies {
+    compile libraries.gson
+    compile libraries.slf4j_log4j13
+
+    compile project(':profiler')
+}
+
+mainClassName = 'com.hjwylde.whiley.evaluator.Main'
+
+compileJava.dependsOn ':profiler:installApp'
+

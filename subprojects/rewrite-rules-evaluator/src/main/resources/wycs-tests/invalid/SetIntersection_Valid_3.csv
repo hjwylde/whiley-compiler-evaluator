@@ -1,0 +1,6 @@
+SetIntersection_Valid_3
+false
+Reduction Rules
+Reduction_33[And_1],1
+Reduction_25[Load_1],2
+Inference Rules

@@ -1,0 +1,15 @@
+BoolAssign_Valid_5
+true
+Reduction Rules
+Reduction_49[Multiplication_4],2
+Reduction_47[Multiplication_2],7
+Reduction_60[Sum_4],27
+Reduction_57[Sum_1],3
+Reduction_62[Sum_6],6
+Reduction_44[Equals_1],1
+Reduction_36[And_4],6
+Reduction_59[Sum_3],8
+Reduction_46[Multiplication_1],7
+Inference Rules
+Inference_3[Inequality_3],1
+Inference_4[Inequality_4],2
